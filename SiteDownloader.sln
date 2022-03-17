@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiteDownloader", "SiteDownloader\SiteDownloader.csproj", "{EABFAE14-4FBE-4B7C-8FC4-EB3669FDA870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrowlerLib", "CrowlerLib\CrowlerLib.csproj", "{918B1503-5800-49C4-AC34-04DCAA090068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EABFAE14-4FBE-4B7C-8FC4-EB3669FDA870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABFAE14-4FBE-4B7C-8FC4-EB3669FDA870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABFAE14-4FBE-4B7C-8FC4-EB3669FDA870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABFAE14-4FBE-4B7C-8FC4-EB3669FDA870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{918B1503-5800-49C4-AC34-04DCAA090068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918B1503-5800-49C4-AC34-04DCAA090068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918B1503-5800-49C4-AC34-04DCAA090068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918B1503-5800-49C4-AC34-04DCAA090068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
